@@ -21,6 +21,9 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 - Get the `hands_on_example.ipynb`
 - run `jupyter notebook`
 
+## Mlflow UI
+![Screenshot (27)](https://user-images.githubusercontent.com/108064941/212887917-2fceb1fb-a6db-4a82-a21f-6bbe73136ad7.png)
+
 # Advanced setup
 
 ## Setup the environment
