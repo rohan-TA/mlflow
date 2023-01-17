@@ -1,0 +1,15 @@
+artifact_uri: mlruns/849477880959459618/629242d7d61d483aa6d7e5dd01a82bbd/artifacts
+end_time: 1673949335452
+entry_point_name: ''
+experiment_id: '849477880959459618'
+lifecycle_stage: active
+run_id: 629242d7d61d483aa6d7e5dd01a82bbd
+run_name: beautiful-panda-660
+run_uuid: 629242d7d61d483aa6d7e5dd01a82bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673949333750
+status: 3
+tags: []
+user_id: rohan

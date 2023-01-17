@@ -1,0 +1,15 @@
+artifact_uri: mlruns/849477880959459618/9c82083d61ee4425b4b633956fd4d6c9/artifacts
+end_time: 1673949339364
+entry_point_name: ''
+experiment_id: '849477880959459618'
+lifecycle_stage: active
+run_id: 9c82083d61ee4425b4b633956fd4d6c9
+run_name: likeable-ape-579
+run_uuid: 9c82083d61ee4425b4b633956fd4d6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673949337437
+status: 3
+tags: []
+user_id: rohan

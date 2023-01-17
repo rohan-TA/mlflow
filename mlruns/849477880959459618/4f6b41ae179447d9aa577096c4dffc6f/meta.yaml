@@ -1,0 +1,15 @@
+artifact_uri: mlruns/849477880959459618/4f6b41ae179447d9aa577096c4dffc6f/artifacts
+end_time: 1673949331670
+entry_point_name: ''
+experiment_id: '849477880959459618'
+lifecycle_stage: active
+run_id: 4f6b41ae179447d9aa577096c4dffc6f
+run_name: crawling-bug-461
+run_uuid: 4f6b41ae179447d9aa577096c4dffc6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673949329240
+status: 3
+tags: []
+user_id: rohan
